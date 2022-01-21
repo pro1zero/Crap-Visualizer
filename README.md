@@ -1,4 +1,4 @@
-# Crap-Visualizer
+#Visualizer
 supports Bubble Sort, Insertion Sort, Selection Sort, and Quick Sort visualizations. 
 
 To add:
